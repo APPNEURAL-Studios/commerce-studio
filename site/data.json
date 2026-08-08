@@ -1,0 +1,143 @@
+{
+  "slug": "commerce-studio",
+  "host": "commerce",
+  "title": "Commerce Studio",
+  "tagline": "Storefronts, catalogs, checkout and orders",
+  "description": "Build storefronts, product catalogs, and checkout flows. Manage inventory, orders, shipping rules, coupons, and subscription plans, configure tax rules and payment gateways, and set up upsells, wishlists, and returns for a complete store.",
+  "editors": [
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Storefront Editor",
+      "desc": "Online store page builder"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Product Listing Editor",
+      "desc": "Product page and catalog creation"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Product Catalog Editor",
+      "desc": "Category and catalog organization"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Cart Editor",
+      "desc": "Shopping cart flow configuration"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Checkout Flow Editor",
+      "desc": "Payment and checkout page design"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Inventory Editor",
+      "desc": "Stock level and SKU management"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Order Management Editor",
+      "desc": "Order processing and fulfillment"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Shipping Rule Editor",
+      "desc": "Shipping rates and zone configuration"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Coupon/Discount Editor",
+      "desc": "Promo code and discount rules"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Subscription Plan Editor",
+      "desc": "Recurring billing plan configuration"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Product Variant Editor",
+      "desc": "Size/color/variant management"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Return/Refund Editor",
+      "desc": "Return policy and refund workflow"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Tax Rule Editor",
+      "desc": "Tax rate configuration by region"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Wishlist Editor",
+      "desc": "Customer wishlist configuration"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Upsell/Cross-sell Editor",
+      "desc": "Product recommendation rules"
+    },
+    {
+      "category": "Commerce & Storefront Editors",
+      "name": "Payment Gateway Editor",
+      "desc": "Payment method integration setup"
+    }
+  ],
+  "services": [
+    [
+      "commerce",
+      "core"
+    ],
+    [
+      "order",
+      "core"
+    ],
+    [
+      "catalog",
+      "core"
+    ],
+    [
+      "product",
+      "core"
+    ],
+    [
+      "payment",
+      "core"
+    ],
+    [
+      "billing",
+      "core"
+    ],
+    [
+      "inventory",
+      "new"
+    ],
+    [
+      "marketing",
+      "core"
+    ],
+    [
+      "customer",
+      "core"
+    ],
+    [
+      "tax",
+      "new"
+    ],
+    [
+      "review",
+      "new"
+    ],
+    [
+      "recommendation",
+      "gap"
+    ],
+    [
+      "localization",
+      "gap"
+    ]
+  ]
+}
