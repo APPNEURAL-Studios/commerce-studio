@@ -24,19 +24,8 @@
         { "pattern": "commerce.studio.appneural.com", "custom_domain": true }
       ],
       "observability": { "enabled": true }
-    },
-
-    "dev": {
-      "name": "commerce-studio-dev",
-      "workers_dev": true,
-      "assets": {
-        "directory": "./site",
-        "not_found_handling": "single-page-application"
-      },
-      "routes": [
-        { "pattern": "commerce-dev.studio.appneural.com", "custom_domain": true }
-      ],
-      "observability": { "enabled": true }
     }
+
+
   }
 }
